@@ -115,6 +115,30 @@ Applied the network configuration using `networkctl reload` and `networkctl reco
 
 Intermittent ICMP packet loss was observed during internet tests; this did not prevent successful connectivity.
 
+
+### Network Configuration Evidence
+
+**Ubuntu Server**
+
+![Ubuntu static IP configuration](../evidence/ubuntu-network.png)
+
+**Kali Linux**
+
+![Kali static IP configuration](../evidence/kali-network.png)
+
+**Wazuh Server**
+
+![Wazuh static IP configuration](../evidence/wazuh-network.png)
+
+### Connectivity Evidence
+
+![Kali to Ubuntu ping test](../evidence/connectivity-check.png)
+
+### SIEM Dashboard
+
+![Wazuh dashboard](../evidence/wazuh-dashboard.png)
+
+
 ## 6. Troubleshooting
 
 **Issue 1 — Ubuntu Host-only interface had no IPv4 address.**
