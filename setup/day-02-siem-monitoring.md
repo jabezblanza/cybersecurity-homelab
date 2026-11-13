@@ -201,6 +201,31 @@ The source IP, target username, port, timestamp, and original log message were s
 | Authentication failure detection | Verified |
 | Event correlation | Verified |
 
+
+## Evidence Screenshots
+
+### Agent Registration
+
+![Wazuh Agent Active](../evidence/day-02/wazuh-agent-active.png)
+
+### Ubuntu SSH Authentication Log
+
+![SSH Failed Login Log](../evidence/day-02/ssh-failed-login-log.png)
+
+### Wazuh Authentication Alerts
+
+![Wazuh SSH Alerts](../evidence/day-02/wazuh-ssh-alerts.png)
+
+### Detailed Security Event
+
+**Part 1 — Source Address and Original Log**
+
+![SSH Alert Details Part 1](../evidence/day-02/ssh-alert-details-part1.png)
+
+**Part 2 — Detection Rule and MITRE ATT&CK**
+
+![SSH Alert Details Part 2](../evidence/day-02/ssh-alert-details-part2.png)
+
 ## 8. Lessons Learned
 
 - Learned how to deploy and register a Wazuh endpoint agent.
