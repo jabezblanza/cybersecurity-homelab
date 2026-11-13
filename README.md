@@ -39,9 +39,9 @@ The project simulates controlled attacks from Kali Linux against an Ubuntu Serve
 
 ## Technical Documentation
 
-[Day 01 — Infrastructure & Network Configuration](setup/day-01-infrastructure.md)
-[Day 02 — SIEM Configuration & SSH Monitoring](setup/day-02-siem-monitoring.md)
-
+- [Day 01 — Infrastructure & Network Configuration](setup/day-01-infrastructure.md)
+- [Day 02 — SIEM Configuration & SSH Monitoring](setup/day-02-siem-monitoring.md)
+  
 ## Disclaimer
 
 All security testing is performed in a personally owned, controlled virtual laboratory for educational purposes.
