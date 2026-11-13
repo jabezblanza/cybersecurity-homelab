@@ -30,7 +30,7 @@ The project simulates controlled attacks from Kali Linux against an Ubuntu Serve
 | Day | Activity | Status |
 |---|---|---|
 | 01 | Infrastructure & Network Configuration | Completed |
-| 02 | SIEM Setup & Log Collection | Planned |
+| 02 | SIEM Setup & Log Collection | Completed |
 | 03 | Network Reconnaissance | Planned |
 | 04 | SSH Attack Simulation | Planned |
 | 05 | Incident Investigation & Response | Planned |
