@@ -120,23 +120,23 @@ Intermittent ICMP packet loss was observed during internet tests; this did not p
 
 **Ubuntu Server**
 
-![Ubuntu static IP configuration](../evidence/ubuntu-network.png)
+![Ubuntu static IP configuration](../evidence/day-01/ubuntu-network.png)
 
 **Kali Linux**
 
-![Kali static IP configuration](../evidence/kali-network.png)
+![Kali static IP configuration](../evidence/day-01/kali-network.png)
 
 **Wazuh Server**
 
-![Wazuh static IP configuration](../evidence/wazuh-network.png)
+![Wazuh static IP configuration](../evidence/day-01/wazuh-network.png)
 
 ### Connectivity Evidence
 
-![Kali to Ubuntu ping test](../evidence/connectivity-check.png)
+![Kali to Ubuntu ping test](../evidence/day-01/connectivity-check.png)
 
 ### SIEM Dashboard
 
-![Wazuh dashboard](../evidence/wazuh-dashboard.png)
+![Wazuh dashboard](../evidence/day-01/wazuh-dashboard.png)
 
 
 ## 6. Troubleshooting
